@@ -5,9 +5,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Admin Young Tian Shop</title>
-    <!-- Favicons -->
-  <link href="{{url('public')}}/assets/img/apple-touch-icon.png" rel="icon">
-  <link href="{{url('public')}}/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
     <!-- Bootstrap Styles-->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <!-- FontAwesome Styles-->
@@ -287,6 +285,7 @@
                         </h1>
                     </div>
                 </div>
+                
 
 
                 <!-- /. ROW  -->
