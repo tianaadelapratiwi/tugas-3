@@ -10,12 +10,12 @@
 <body>
 	<div class="box">
 		<div class="judul">
-			<h2> Selamat Datang ADMIN </h2>
+			<h2> Sign Up </h2>
 			<hr>
 		</div>
 		<div class="menu">
 			<div class="login">
-				<h2> Daftar Sekarang </h2>
+				
 			</div>		
 		</div>
 		<div class="input">
